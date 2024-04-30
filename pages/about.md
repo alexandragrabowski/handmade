@@ -16,4 +16,4 @@ credits: true
 
 Welcome! This is a collection of some of the work I have made over the past few years, including crocheted, ceramic, and hand woven pieces. You can find more on instagram @yaddayaddaco
 
-{% include feature/image.html objectid="item001" width="75" %}
+{% include feature/image.html objectid="item001" width="50" %}
