@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="image012" %}
+{% include feature/jumbotron.html objectid="https://img.freepik.com/premium-photo/multi-color-yarn-threads-banner-background_244157-2914.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
